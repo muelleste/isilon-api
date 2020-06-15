@@ -29,9 +29,13 @@ You will find Objects like "user" or "group".
 
 If you are interest in, which http function you can use in this call.
 Make a "GET Call" and with *"curl"*, you will recieve a list of possible methods:
+
 > GET /platform/1/auth/users/ HTTP/1.1
+
 ....
+
 > Allow: GET, POST, DELETE, HEAD
+
 ... 
 
 ```
