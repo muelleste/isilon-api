@@ -583,4 +583,4 @@ Make a "GET Call" and with *"curl"*, you will recieve a list of possible methods
 }
 ```
 
-Hope you have a better start with the isilon api as i had.
+Hope you have a better start with the isilon api as I had.
